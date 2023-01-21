@@ -1,15 +1,14 @@
-<h1 align="center">Hi! My name is Matheus Carlos. 👋</h1>
+<h1 align="center">Bem vindo! Me chamo Matheus Carlos. 👋</h1>
 <p>
-🌱 I’m currently learning HTML, CSS, JavaScript. <br>
+📚 Atualmente estudo HTML, CSS, JavaScript. <br>
 
--   I'm currently studying web programming languages (HTML5, CSS3 & JavaScript).
-Dedicating all my free time to studying and improving these languages as well as developing soft skill & hard skill. Daily I seek to learn, read, and understand about technology. My profile is curious, self-taught, flexible and dynamic and this allows me to research, learn, filter information and share it.
+-   Sou Bacharel em Ciência e Tecnologia, atualmente dedico o meu tempo ao estudo de desenvolvimento web. Estou sempre buscando aprender e aperfeiçoar meus conhecimentos nesta área.
 </p>
 
 <hr/>
 
  <h3 align="center">
-Languages
+Linguagens e Tecnologias
 </h3>
 
  <div align="center" style="display: inline_block"><br>
@@ -30,5 +29,5 @@ Languages
 <hr/>
 
 <h2 align="center">
-  Show some ❤️ by starring some of the repositories!
+  Fique à vontade para conhecer alguns dos meus projetos! 💡🖥
 </h2>
