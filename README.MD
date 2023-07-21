@@ -12,8 +12,8 @@ Linguagens e Tecnologias
 </h3>
 
  <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="35" width="40" src="https://icongr.am/devicon/html5-original-wordmark.svg">
-  <img align="center" alt="CSS" height="35" width="40" src="https://icongr.am/devicon/css3-original-wordmark.svg">
+  <img align="center" alt="HTML" height="40" width="40" src="https://icongr.am/devicon/html5-original-wordmark.svg">
+  <img align="center" alt="CSS" height="40" width="40" src="https://icongr.am/devicon/css3-original-wordmark.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://icongr.am/devicon/typescript-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg">
