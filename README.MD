@@ -1,6 +1,6 @@
 <h1 align="center">Bem vindo! Me chamo Matheus Carlos. 👋</h1>
 <p>
-📚 Atualmente estudo HTML, CSS, JavaScript. <br>
+📚 Atualmente estudo Javascript, Typescript, NodeJs, Mysql <br>
 
 -   Sou Bacharel em Ciência e Tecnologia, atualmente dedico o meu tempo ao estudo de desenvolvimento web. Estou sempre buscando aprender e aperfeiçoar meus conhecimentos nesta área.
 </p>
